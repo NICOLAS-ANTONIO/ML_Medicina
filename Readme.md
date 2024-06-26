@@ -1,6 +1,6 @@
 # Análisis Predictivo de Factores de Riesgo para Hospitalización Post-Biopsia Prostática
 
-Este proyecto se enmarca en el contexto de la realización del bootcamp de Henry para Data Sciense. La base de datos la entrega el equipo de Henry.
+Este proyecto se enmarca en el contexto de la realización del bootcamp de Henry para Data Science. La base de datos la entrega el equipo de Henry.
 
 ## Descripción
 El presente trabajo consta de tres etapas:
